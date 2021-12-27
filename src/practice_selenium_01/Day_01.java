@@ -1,7 +1,5 @@
 package practice_selenium_01;
 
-import java.awt.Window;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 

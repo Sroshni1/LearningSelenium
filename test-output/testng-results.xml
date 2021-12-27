@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-27T00:25:28 CST" name="Default suite" finished-at="2021-12-27T00:25:41 CST" duration-ms="13292">
+  <suite started-at="2021-12-27T02:22:22 CST" name="Default suite" finished-at="2021-12-27T02:22:33 CST" duration-ms="11170">
     <groups>
     </groups>
-    <test started-at="2021-12-27T00:25:28 CST" name="Default test" finished-at="2021-12-27T00:25:41 CST" duration-ms="13292">
-      <class name="practice_selenium_01.Day_02">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:practice_selenium_01.Day_02@fa49800]" started-at="2021-12-27T00:25:28 CST" name="setUp" finished-at="2021-12-27T00:25:33 CST" duration-ms="4806" status="PASS">
+    <test started-at="2021-12-27T02:22:22 CST" name="Default test" finished-at="2021-12-27T02:22:33 CST" duration-ms="11170">
+      <class name="com.learningSelenium.StateFarm">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.learningSelenium.StateFarm@71238fc2]" started-at="2021-12-27T02:22:22 CST" name="setUp" finished-at="2021-12-27T02:22:28 CST" duration-ms="6413" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="urlTest()[pri:0, instance:practice_selenium_01.Day_02@fa49800]" started-at="2021-12-27T00:25:33 CST" name="urlTest" finished-at="2021-12-27T00:25:41 CST" duration-ms="8173" status="PASS">
+        <test-method signature="stateFarmHomePage()[pri:0, instance:com.learningSelenium.StateFarm@71238fc2]" started-at="2021-12-27T02:22:28 CST" name="stateFarmHomePage" finished-at="2021-12-27T02:22:33 CST" duration-ms="4389" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- urlTest -->
-        <test-method is-config="true" signature="tearUp()[pri:0, instance:practice_selenium_01.Day_02@fa49800]" started-at="2021-12-27T00:25:41 CST" name="tearUp" finished-at="2021-12-27T00:25:41 CST" duration-ms="222" status="PASS">
+        </test-method> <!-- stateFarmHomePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.learningSelenium.StateFarm@71238fc2]" started-at="2021-12-27T02:22:33 CST" name="tearDown" finished-at="2021-12-27T02:22:33 CST" duration-ms="249" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tearUp -->
-      </class> <!-- practice_selenium_01.Day_02 -->
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.learningSelenium.StateFarm -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
